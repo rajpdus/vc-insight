@@ -12,7 +12,7 @@ color_scheme: light
 # Aux links for the upper right navigation
 aux_links:
   "View on GitHub":
-    - "https://github.com/dushyant/vc-insight"
+    - "https://github.com/rajpdus/vc-insight"
 
 # Makes Aux links open in a new tab
 aux_links_new_tab: true
