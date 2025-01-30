@@ -13,28 +13,28 @@ A comprehensive analysis of top venture capital firms to help founders make info
 ## Quick Navigation
 
 ### Tier 1 VCs
-- [Sequoia Capital](/sequoia_capital_analysis)
-- [Andreessen Horowitz (a16z)](/a16z_analysis)
-- [Accel Partners](/accel_partners_analysis)
+- [Sequoia Capital](/vc-insight/sequoia_capital_analysis)
+- [Andreessen Horowitz (a16z)](/vc-insight/a16z_analysis)
+- [Accel Partners](/vc-insight/accel_partners_analysis)
 
 ### Growth & Multi-Stage
-- [Insight Partners](/insight_partners_analysis)
-- [Index Ventures](/index_ventures_analysis)
-- [Norwest Venture Partners](/norwest_ventures_analysis)
-- [Bessemer Venture Partners](/bessemer_ventures_analysis)
-- [Lightspeed Ventures](/lightspeed_ventures_analysis)
+- [Insight Partners](/vc-insight/insight_partners_analysis)
+- [Index Ventures](/vc-insight/index_ventures_analysis)
+- [Norwest Venture Partners](/vc-insight/norwest_ventures_analysis)
+- [Bessemer Venture Partners](/vc-insight/bessemer_ventures_analysis)
+- [Lightspeed Ventures](/vc-insight/lightspeed_ventures_analysis)
 
 ### Early-Stage Focused
-- [Matrix Partners](/matrix_partners_analysis)
-- [Initialized Capital](/initialized_capital_analysis)
-- [Foundation Capital](/foundation_capital_analysis)
-- [SignalFire](/signalfire_analysis)
+- [Matrix Partners](/vc-insight/matrix_partners_analysis)
+- [Initialized Capital](/vc-insight/initialized_capital_analysis)
+- [Foundation Capital](/vc-insight/foundation_capital_analysis)
+- [SignalFire](/vc-insight/signalfire_analysis)
 
 ### Specialized Focus
-- [Gradient Ventures](/gradient_ventures_analysis) - *Google's AI Fund*
-- [AIX Ventures](/aix_ventures_analysis) - *AI/ML Focus*
-- [NGP Capital](/ngp_capital_analysis) - *Nokia's Fund*
-- [SaaStr Fund](/saastr_fund_analysis) - *SaaS Focus*
+- [Gradient Ventures](/vc-insight/gradient_ventures_analysis) - *Google's AI Fund*
+- [AIX Ventures](/vc-insight/aix_ventures_analysis) - *AI/ML Focus*
+- [NGP Capital](/vc-insight/ngp_capital_analysis) - *Nokia's Fund*
+- [SaaStr Fund](/vc-insight/saastr_fund_analysis) - *SaaS Focus*
 
 ## How to Use This Resource
 
