@@ -13,28 +13,28 @@ A comprehensive analysis of top venture capital firms to help founders make info
 ## Quick Navigation
 
 ### Tier 1 VCs
-- [Sequoia Capital](sequoia_capital_analysis.md)
-- [Andreessen Horowitz (a16z)](a16z_analysis.md)
-- [Accel Partners](accel_partners_analysis.md)
+- [Sequoia Capital](/sequoia_capital_analysis)
+- [Andreessen Horowitz (a16z)](/a16z_analysis)
+- [Accel Partners](/accel_partners_analysis)
 
 ### Growth & Multi-Stage
-- [Insight Partners](insight_partners_analysis.md)
-- [Index Ventures](index_ventures_analysis.md)
-- [Norwest Venture Partners](norwest_ventures_analysis.md)
-- [Bessemer Venture Partners](bessemer_ventures_analysis.md)
-- [Lightspeed Ventures](lightspeed_ventures_analysis.md)
+- [Insight Partners](/insight_partners_analysis)
+- [Index Ventures](/index_ventures_analysis)
+- [Norwest Venture Partners](/norwest_ventures_analysis)
+- [Bessemer Venture Partners](/bessemer_ventures_analysis)
+- [Lightspeed Ventures](/lightspeed_ventures_analysis)
 
 ### Early-Stage Focused
-- [Matrix Partners](matrix_partners_analysis.md)
-- [Initialized Capital](initialized_capital_analysis.md)
-- [Foundation Capital](foundation_capital_analysis.md)
-- [SignalFire](signalfire_analysis.md)
+- [Matrix Partners](/matrix_partners_analysis)
+- [Initialized Capital](/initialized_capital_analysis)
+- [Foundation Capital](/foundation_capital_analysis)
+- [SignalFire](/signalfire_analysis)
 
 ### Specialized Focus
-- [Gradient Ventures](gradient_ventures_analysis.md) - *Google's AI Fund*
-- [AIX Ventures](aix_ventures_analysis.md) - *AI/ML Focus*
-- [NGP Capital](ngp_capital_analysis.md) - *Nokia's Fund*
-- [SaaStr Fund](saastr_fund_analysis.md) - *SaaS Focus*
+- [Gradient Ventures](/gradient_ventures_analysis) - *Google's AI Fund*
+- [AIX Ventures](/aix_ventures_analysis) - *AI/ML Focus*
+- [NGP Capital](/ngp_capital_analysis) - *Nokia's Fund*
+- [SaaStr Fund](/saastr_fund_analysis) - *SaaS Focus*
 
 ## How to Use This Resource
 

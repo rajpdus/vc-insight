@@ -1,7 +1,7 @@
 remote_theme: just-the-docs/just-the-docs
 title: VC Fund Analysis
 description: Comprehensive analysis of top venture capital firms
-baseurl: "/vclist" # the subpath of your site, e.g. /blog
+baseurl: "/vc-insight" # updated to match your repository name
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Theme settings
@@ -12,7 +12,7 @@ color_scheme: light
 # Aux links for the upper right navigation
 aux_links:
   "View on GitHub":
-    - "https://github.com/yourusername/vclist"
+    - "https://github.com/dushyant/vc-insight"
 
 # Makes Aux links open in a new tab
 aux_links_new_tab: true
@@ -26,6 +26,9 @@ footer_content: "Copyright &copy; 2024. Distributed under the MIT license."
 # Back to top link
 back_to_top: true
 back_to_top_text: "Back to top"
+
+# Enable copy code button
+enable_copy_code_button: true
 
 # Google Analytics
 ga_tracking: 
